@@ -12,7 +12,7 @@ div.main{
 	background: #fff;
 	color: #000;
 	font-size: 20px;
-	min-height: 1000px;
+	min-height: 500px;
 	width: 100%;
 }
 h2.main_text{
@@ -20,12 +20,12 @@ h2.main_text{
 }
 div.clear{
 	padding: 5px;
-	min-height: 1000px;
+	min-height: 500px;
 }
 div.sloi2{
 	background-image: url(sloi2.jpg); /* Путь к фоновому изображению */
 	background-attachment: fixed; /* Фиксируем фон веб-страницы */
-	min-height: 1000px;
+	min-height: 500px;
 	margin-top: -80px;
 }
 div.footer{
