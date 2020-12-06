@@ -1,0 +1,37 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+div {
+	font-size: 2em;
+	color: #fff;
+	height: 300px;
+}
+div.main{
+	background: #fff;
+	color: #000;
+	font-size: 20px;
+	min-height: 1000px;
+	width: 100%;
+}
+h2.main_text{
+	font-size: 2em;
+}
+div.clear{
+	padding: 5px;
+	min-height: 1000px;
+}
+div.sloi2{
+	background-image: url(sloi2.jpg); /* Путь к фоновому изображению */
+	background-attachment: fixed; /* Фиксируем фон веб-страницы */
+	min-height: 1000px;
+	margin-top: -80px;
+}
+div.footer{
+	position: fixed;
+	bottom: 0px;
+	height: 100px;
+	font-size: 30px;
+	color: blue;
+}
